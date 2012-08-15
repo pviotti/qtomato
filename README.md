@@ -1,9 +1,10 @@
 QTomato
 ======
 
-This is a simple timer for the [Pomodoro technique](http://en.wikipedia.org/wiki/Pomodoro_technique) based on the Qt framework.
+This is a simple timer meant to help applying the [Pomodoro technique](http://en.wikipedia.org/wiki/Pomodoro_technique).  
+It's written in C++ and based on the Qt framework.
 
-![QTomato screenshot](https://github.com/pviotti/QTomato/tree/master/_screenshots/QTomato_screenshot-options.png)
+![QTomato screenshot](https://raw.github.com/pviotti/QTomato/master/_screenshots/QTomato_screenshot-options.png)
 
 
 License
