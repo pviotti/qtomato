@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/tomato-48.png</file>
+        <file>sounds/deskbell.wav</file>
+    </qresource>
+</RCC>
